@@ -1,5 +1,8 @@
 # Canny Edge Detection Algorithm
 
+**Team Members**
+Ali Turkey, Ahmed Mohamed Maher, Ahmed Walid
+
 Edge detection is a fundamental technique in image processing used to identify boundaries within images. The Canny edge detection algorithm, developed by John F. Canny in 1986, is one of the most widely used methods due to its effectiveness and reliability.
 
 ## Key Features
