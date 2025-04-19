@@ -21,7 +21,7 @@ gauss, magnitude, edges = canny_edge(img, sigma=3)
 
 # Save results
 io.imsave("edges.jpg", edges)
-
+```
 Pros & Cons
 Advantages (+)
 Accurate edge detection - Multi-stage process reduces false positives
